@@ -25,3 +25,6 @@ Money laundering script with a built in modern looking UI and easelly configurab
 
 - Have one core from the supported cores
 - Have one target from the supported targets
+
+# Support 
+If you have any problems please join [my discord](https://discord.gg/7PqhkuuY6V) or contact me via Renčikas#1764
