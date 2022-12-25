@@ -3,6 +3,7 @@ game 'gta5'
 
 client_scripts { 'client/*.lua' }
 shared_scripts { 'config/*.lua' }
+server_scripts { 'server/*.lua' }
 
 ui_page 'dist/index.html'
 -- ui_page 'http://localhost:5173/'

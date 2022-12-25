@@ -204,6 +204,7 @@ textarea {
     align-items: center;
     width: 10vh;
     height: 3vh;
+    cursor: pointer;
     border-radius: 2vh;
     background-color:rgba(255, 255, 255, 0.117);
 }
@@ -214,6 +215,7 @@ textarea {
     align-items: center;
     width: 10vh;
     height: 3vh;
+    cursor: pointer;
     border-radius: 2vh;
     background-color:rgba(255, 255, 255, 0.117);
 }
@@ -224,6 +226,7 @@ textarea {
     align-items: center;
     width: 10vh;
     height: 3vh;
+    cursor: pointer;
     border-radius: 2vh;
     background-color:rgba(255, 255, 255, 0.117);
 }
@@ -259,6 +262,7 @@ textarea {
     align-items: center;
     width: 15vh;
     height: 4vh;
+    cursor: pointer;
     border-radius: 2vh;
     background-color:rgba(255, 255, 255, 0.117);
     color: #ffffff;

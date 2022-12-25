@@ -1,21 +1,19 @@
+Core = { Target = 'qtarget', Core = 'esx' }
+
 Laundering = {
-    Core = {
-        Target = 'qtarget',
-        Core = 'esx'
-    },
     [1] = {
         Data = {
-            CleanMoney = false,
-            ShowBlip = true,
+            CleanMoney = false,--// if CleanMoney = false means that it will not clean money but will clean items
+            ShowBlip = true,--// if left true it will display dealers blip on the map
         },
         Types = {
             ['item'] = {
                 itemName = 'phone',
                 itemWorth = 5000
             },
-            ['cash'] = {
-                account = 'money',
-                itemWorth = 5000
+            ['money'] = {
+                account = 'cash',
+                worth = 5000
             }
         },
         Dealer = {
