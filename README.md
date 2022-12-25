@@ -1,2 +1,2 @@
-# ren-laundering WORK IN PROGRESS
-A laundering scrip with a clean looking UI | ESX, QB, OX
+# Description
+Money laundering script with a built in modern looking UI and easelly configurable 
