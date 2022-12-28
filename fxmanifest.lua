@@ -5,8 +5,8 @@ client_scripts { 'client/*.lua' }
 shared_scripts { 'config/*.lua' }
 server_scripts { 'server/*.lua' }
 
-ui_page 'dist/index.html'
 -- ui_page 'http://localhost:5173/'
-files { 'dist/**' }
+ui_page 'web/dist/index.html'
+files { 'web/dist/**' }
 
 lua54 'yes'

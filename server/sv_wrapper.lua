@@ -53,8 +53,8 @@ end
 
 GetMoney = function(src, account)
     local pData = GetPlayer(src)
-    if Core.Core == 'qb-core' then         
-        return pData.money[account]
+    if Core.Core == 'qb-core' then      
+        return pData.PlayerData.money[account]
     elseif Core.Core == 'esx' then 
         return pData.getAccount(account).money
     end

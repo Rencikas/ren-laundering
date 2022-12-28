@@ -1,4 +1,4 @@
-Core = { Target = 'qtarget', Core = 'esx' }--// targets: ('ox_target', 'qb-target', 'qtarget') core: ('esx', 'qb-core')
+Core = { Target = 'qb-target', Core = 'qb-core' }--// targets: ('ox_target', 'qb-target', 'qtarget') core: ('esx', 'qb-core')
 
 Laundering = {--//Don't touch
     [1] = {
@@ -8,9 +8,14 @@ Laundering = {--//Don't touch
             colour = 39,--// blip color id
             scale = 0.80--// blip scale
         },
+
+        -------accounts---------
+            --qbcore: bank, cash, crypto
+            --esx: money, bank, black_money
+        -----------------------    
         
-        cleans = 'money',--// account type that the dealer washes
-        returns = 'money',--// when washed the dealer returns the money into the set account
+        cleans = 'cash',--// account type that the dealer washes
+        returns = 'cash',--// when washed the dealer returns the money into the set account
         LaunderFee = 10, --// Launder fee is what the dealer takes, for example this dealer takes 0% of the money being laundered
 
         Dealer = {--//dealer data
