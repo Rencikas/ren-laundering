@@ -1,3 +1,0 @@
-CreateThread(function()
-    SetupCoreObject()    
-end)

@@ -1,5 +1,9 @@
 core = nil
 
+CreateThread(function()
+    SetupCoreObject() 
+end)
+
 SetupCoreObject = function()
     if Core.Core == 'qb-core' then 
         core = exports['qb-core']:GetCoreObject()        

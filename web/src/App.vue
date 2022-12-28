@@ -15,8 +15,8 @@ export default {
         LaunderMoney() {
             Nui('LaunderMoney', this.LaunderingAmount)
             this.Display = false
-            this.MoneyToLaunderAmount = 0
             this.LaunderingAmount = 0
+            this.MoneyToLaunderAmount = 0
         },
     },
     mounted() {
@@ -32,8 +32,8 @@ export default {
         window.addEventListener("keydown", (key) => {
             if (key.code == "Escape") {
                 this.Display = false
-                this.MoneyToLaunderAmount = 0
                 this.LaunderingAmount = 0
+                this.MoneyToLaunderAmount = 0
                 Nui('CloseMenu')
             }
         });
