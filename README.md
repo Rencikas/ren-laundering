@@ -1,7 +1,7 @@
 
 
 # Description
-Money laundering script with a built in modern looking UI and easelly configurable config and with multiple core and target script support
+Money laundering script made for fivem, this script only supports qbcore and esx core and it also supports qb-target, qtarget and ox_target for interaction, every part of the config can be easelly adjustedd to your liking
 
 # Supported cores
 - esx 
