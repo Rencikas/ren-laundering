@@ -1,4 +1,4 @@
-# WORK IN PROGRESS DONT USE IT !!!!!!!!!!!!!!
+
 
 # Description
 Money laundering script with a built in modern looking UI and easelly configurable config and with multiple core and target script support
@@ -16,6 +16,7 @@ Money laundering script with a built in modern looking UI and easelly configurab
 
 - User InterFace
 - Multiple dealer locations
+- Easelly configurable dealer options
 - Easelly configurable core
 - Easelly configurable target
 - Configurable black money types 
