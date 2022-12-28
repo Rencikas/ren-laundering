@@ -37,5 +37,8 @@ Money laundering script made for fivem, this script only supports qbcore and esx
 - Step three
 ```When finished editing UI input into the terminal folowing command: npm run build```
 
+# Credits 
+Thank you for coding the design doxtery#0178 !
+
 # Support 
 If you have any problems please join [my discord](https://discord.gg/7PqhkuuY6V) or contact me via Renčikas#1764
