@@ -36,8 +36,6 @@ Money laundering script made for fivem, this script only supports qbcore and esx
 ```Open terminal and input: cd web and after that you can input: npm run dev```
 - Step three
 ```When finished editing UI input into the terminal folowing command: npm run build```
-- Step four
-```take the dist file from the web file and replace the old dist file with new```
 
 # Support 
 If you have any problems please join [my discord](https://discord.gg/7PqhkuuY6V) or contact me via Renčikas#1764
