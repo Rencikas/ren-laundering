@@ -33,7 +33,7 @@ Money laundering script made for fivem, this script only supports qbcore and esx
 - Step one
  ```open ren-laundering as a project on vscode```
 - Step two
-```Open terminal and input: cd web and after that you can input: npm run dev```
+```Open terminal and input: cd web and after that you can input: npm i and then npm run dev```
 - Step three
 ```When finished editing UI input into the terminal folowing command: npm run build```
 
