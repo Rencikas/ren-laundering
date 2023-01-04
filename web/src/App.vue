@@ -55,8 +55,7 @@ export default {
         </div>
 
         <div class="amount">
-            <form action="/action_page.php"></form>
-            <textarea id="enteramount" name="enteramount">{{ LaunderingAmount }}</textarea>
+            <input v-model="LaunderingAmount" type="number" placeholder="0" />
         </div>
 
         <div class="fastpick">
@@ -165,7 +164,7 @@ export default {
     font-weight: 400;
 }
 
-textarea {
+input {
     align-items: justify;
     line-height: 4.5vh;
     -moz-text-align-last: center; /* Firefox 12+ */
