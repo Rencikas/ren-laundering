@@ -44,5 +44,5 @@ Thank you for coding the design doxtery#0178 !
 If you have any problems please join [my discord](https://discord.gg/7PqhkuuY6V) or contact me via Renčikas#1764
 
 # My other work
- [ren-business](https://github.com/Rencikas/ren-businesses)
- [ren-grandma](https://github.com/Rencikas/ren-grandma)
+- [ren-business](https://github.com/Rencikas/ren-businesses)
+- [ren-grandma](https://github.com/Rencikas/ren-grandma)
