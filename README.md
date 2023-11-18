@@ -46,3 +46,5 @@ If you have any problems please join [my discord](https://discord.gg/7PqhkuuY6V)
 # My other work
 - [ren-business](https://github.com/Rencikas/ren-businesses)
 - [ren-grandma](https://github.com/Rencikas/ren-grandma)
+- [peuren_burglary](https://peuren.tebex.io/package/5980960)
+
